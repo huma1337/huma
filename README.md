@@ -4,11 +4,8 @@
   <p><strong>Développeur</strong> — Code, projets & expérimentations.</p>
 
   <p>
-    <a href="https://discord.com/users/349778609059266560">
+    <a href="https://discord.com/users/1526384627324026970">
       <img src="https://img.shields.io/badge/Discord-huma-111111?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-    </a>
-    <a href="https://guns.lol/2wi">
-      <img src="https://img.shields.io/badge/Guns.lol-2wi-111111?style=for-the-badge&logo=linktree&logoColor=white" alt="Guns.lol" />
     </a>
   </p>
 
